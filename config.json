@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperualculate",
+        "uuid": 10923315,
+        "checksum": "2deck"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
